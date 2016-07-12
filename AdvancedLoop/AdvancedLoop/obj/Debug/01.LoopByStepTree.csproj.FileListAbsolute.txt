@@ -4,3 +4,6 @@ D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\obj\Debug\Advan
 D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\bin\Debug\AdvancedLoop.exe
 D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\bin\Debug\AdvancedLoop.pdb
 D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\obj\Debug\01.LoopByStepTree.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\AdvancedLoop\bin\Debug\AdvancedLoop.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\AdvancedLoop\obj\Debug\AdvancedLoop.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\AdvancedLoop\obj\Debug\AdvancedLoop.pdb

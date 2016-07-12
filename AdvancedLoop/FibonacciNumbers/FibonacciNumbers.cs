@@ -10,14 +10,20 @@ namespace FibonacciNumbers
             int firstNumber = 0;
             int secondNumber = 1;
             int thirdNumber = 0;
-
-            for (int i = 0; i < numberOfFibonacci; i++)
+            if (numberOfFibonacci == 0 || numberOfFibonacci == 1)
             {
-                thirdNumber = firstNumber + secondNumber;
-                firstNumber = secondNumber;
-                secondNumber = thirdNumber;
+                Console.WriteLine(1);
             }
-            Console.WriteLine(thirdNumber);
+            else
+            {
+                for (int i = 0; i < numberOfFibonacci; i++)
+                {
+                    thirdNumber = firstNumber + secondNumber;
+                    firstNumber = secondNumber;
+                    secondNumber = thirdNumber;
+                }
+                Console.WriteLine(thirdNumber);
+            }
         }
     }
 }

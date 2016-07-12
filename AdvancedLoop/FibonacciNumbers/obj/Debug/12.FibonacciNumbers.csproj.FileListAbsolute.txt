@@ -4,3 +4,6 @@ D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\FibonacciNumbers\bin\Debug\F
 D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\FibonacciNumbers\obj\Debug\12.FibonacciNumbers.csprojResolveAssemblyReference.cache
 D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
 D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\FibonacciNumbers\bin\Debug\FibonacciNumbers.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\FibonacciNumbers\obj\Debug\FibonacciNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\FibonacciNumbers\obj\Debug\FibonacciNumbers.pdb
