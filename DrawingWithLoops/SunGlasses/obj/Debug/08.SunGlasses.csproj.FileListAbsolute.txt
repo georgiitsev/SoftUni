@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SunGlasses\bin\Debug\SunGlasses.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SunGlasses\bin\Debug\SunGlasses.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SunGlasses\bin\Debug\SunGlasses.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SunGlasses\obj\Debug\SunGlasses.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SunGlasses\obj\Debug\SunGlasses.pdb

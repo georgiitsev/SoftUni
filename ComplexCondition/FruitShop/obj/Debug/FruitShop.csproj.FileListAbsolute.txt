@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitShop\bin\Debug\FruitShop.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitShop\obj\Debug\FruitShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitShop\bin\Debug\FruitShop.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitShop\bin\Debug\FruitShop.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitShop\obj\Debug\FruitShop.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitShop\obj\Debug\FruitShop.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertUsdToBgn\bin\Debug\ConvertUsdToBgn.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertUsdToBgn\obj\Debug\ConvertUsdToBgn.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertUsdToBgn\bin\Debug\ConvertUsdToBgn.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertUsdToBgn\bin\Debug\ConvertUsdToBgn.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertUsdToBgn\obj\Debug\ConvertUsdToBgn.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertUsdToBgn\obj\Debug\ConvertUsdToBgn.pdb

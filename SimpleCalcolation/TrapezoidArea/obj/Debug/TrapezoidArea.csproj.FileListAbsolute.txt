@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\TrapezoidArea\bin\Debug\TrapezoidArea.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\TrapezoidArea\bin\Debug\TrapezoidArea.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\TrapezoidArea\bin\Debug\TrapezoidArea.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\TrapezoidArea\obj\Debug\TrapezoidArea.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\TrapezoidArea\obj\Debug\TrapezoidArea.pdb

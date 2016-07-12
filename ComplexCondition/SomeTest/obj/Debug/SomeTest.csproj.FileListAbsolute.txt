@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SomeTest\bin\Debug\SomeTest.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SomeTest\bin\Debug\SomeTest.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SomeTest\bin\Debug\SomeTest.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SomeTest\obj\Debug\SomeTest.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SomeTest\obj\Debug\SomeTest.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SomeTest\obj\Debug\SomeTest.pdb

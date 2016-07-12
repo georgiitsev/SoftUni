@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\OnTimeForTheExam\obj\Debug\15.OnTimeForTheExam.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\OnTimeForTheExam\bin\Debug\OnTimeForTheExam.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\OnTimeForTheExam\obj\Debug\OnTimeForTheExam.pdb

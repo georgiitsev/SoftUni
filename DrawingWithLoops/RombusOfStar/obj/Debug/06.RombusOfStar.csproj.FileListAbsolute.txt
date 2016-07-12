@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RombusOfStar\bin\Debug\RombusOfStar.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RombusOfStar\bin\Debug\RombusOfStar.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RombusOfStar\bin\Debug\RombusOfStar.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RombusOfStar\obj\Debug\RombusOfStar.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RombusOfStar\obj\Debug\RombusOfStar.pdb

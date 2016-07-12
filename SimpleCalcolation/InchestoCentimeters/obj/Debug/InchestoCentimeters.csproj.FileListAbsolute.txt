@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\InchestoCentimeters\bin\Debug\InchestoCentimeters.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\InchestoCentimeters\bin\Debug\InchestoCentimeters.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\InchestoCentimeters\bin\Debug\InchestoCentimeters.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\InchestoCentimeters\obj\Debug\InchestoCentimeters.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\InchestoCentimeters\obj\Debug\InchestoCentimeters.pdb

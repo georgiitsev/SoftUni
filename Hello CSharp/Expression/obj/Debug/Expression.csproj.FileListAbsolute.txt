@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Expression\bin\Debug\Expression.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Expression\bin\Debug\Expression.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Expression\bin\Debug\Expression.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Expression\obj\Debug\Expression.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Expression\obj\Debug\Expression.pdb

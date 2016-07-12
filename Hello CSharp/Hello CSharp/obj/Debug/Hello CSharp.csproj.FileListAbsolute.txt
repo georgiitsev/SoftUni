@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Hello CSharp\bin\Debug\Hello CSharp.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Hello CSharp\obj\Debug\Hello CSharp.pdb

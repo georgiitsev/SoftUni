@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SmallShop\bin\Debug\SmallShop.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SmallShop\bin\Debug\SmallShop.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SmallShop\bin\Debug\SmallShop.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SmallShop\obj\Debug\SmallShop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SmallShop\obj\Debug\SmallShop.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SmallShop\obj\Debug\SmallShop.pdb

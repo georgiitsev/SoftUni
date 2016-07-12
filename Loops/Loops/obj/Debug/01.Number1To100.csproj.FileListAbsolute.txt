@@ -1,0 +1,3 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\bin\Debug\Loops.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\obj\Debug\Loops.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\obj\Debug\Loops.pdb

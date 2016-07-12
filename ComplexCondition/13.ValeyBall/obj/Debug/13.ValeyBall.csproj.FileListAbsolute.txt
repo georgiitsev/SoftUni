@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\13.ValeyBall\bin\Debug\13.ValeyBall.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\13.ValeyBall\obj\Debug\13.ValeyBall.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\13.ValeyBall\bin\Debug\13.ValeyBall.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\13.ValeyBall\bin\Debug\13.ValeyBall.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\13.ValeyBall\obj\Debug\13.ValeyBall.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\13.ValeyBall\obj\Debug\13.ValeyBall.pdb

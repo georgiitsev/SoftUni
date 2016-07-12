@@ -1,0 +1,1 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SequenceTwoMultiplyTwoTimesKPlusOne\bin\Debug\SequenceTwoMultiplyTwoTimesKPlusOne.exe.config

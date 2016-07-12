@@ -1,0 +1,3 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\bin\Debug\PointOnReactangleBorder.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\obj\Debug\PointOnReactangleBorder.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\obj\Debug\PointOnReactangleBorder.pdb

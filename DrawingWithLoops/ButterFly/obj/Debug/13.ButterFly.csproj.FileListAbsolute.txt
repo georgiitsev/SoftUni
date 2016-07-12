@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\ButterFly\bin\Debug\ButterFly.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\ButterFly\bin\Debug\ButterFly.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\ButterFly\bin\Debug\ButterFly.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\ButterFly\obj\Debug\13.ButterFly.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\ButterFly\obj\Debug\ButterFly.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\ButterFly\obj\Debug\ButterFly.pdb

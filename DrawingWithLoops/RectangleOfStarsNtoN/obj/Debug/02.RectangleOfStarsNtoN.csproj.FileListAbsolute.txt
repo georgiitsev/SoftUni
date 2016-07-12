@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RectangleOfStarsNtoN\bin\Debug\RectangleOfStarsNtoN.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RectangleOfStarsNtoN\bin\Debug\RectangleOfStarsNtoN.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RectangleOfStarsNtoN\bin\Debug\RectangleOfStarsNtoN.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RectangleOfStarsNtoN\obj\Debug\RectangleOfStarsNtoN.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\RectangleOfStarsNtoN\obj\Debug\RectangleOfStarsNtoN.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\17.ThreeEqualNumbers\bin\Debug\17.ThreeEqualNumbers.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\17.ThreeEqualNumbers\bin\Debug\17.ThreeEqualNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\17.ThreeEqualNumbers\bin\Debug\17.ThreeEqualNumbers.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\17.ThreeEqualNumbers\obj\Debug\17.ThreeEqualNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\17.ThreeEqualNumbers\obj\Debug\17.ThreeEqualNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\17.ThreeEqualNumbers\obj\Debug\17.ThreeEqualNumbers.pdb

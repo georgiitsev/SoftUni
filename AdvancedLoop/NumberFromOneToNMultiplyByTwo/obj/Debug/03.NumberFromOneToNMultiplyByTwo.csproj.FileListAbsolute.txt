@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromOneToNMultiplyByTwo\bin\Debug\NumberFromOneToNMultiplyByTwo.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromOneToNMultiplyByTwo\bin\Debug\NumberFromOneToNMultiplyByTwo.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromOneToNMultiplyByTwo\bin\Debug\NumberFromOneToNMultiplyByTwo.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromOneToNMultiplyByTwo\obj\Debug\NumberFromOneToNMultiplyByTwo.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromOneToNMultiplyByTwo\obj\Debug\NumberFromOneToNMultiplyByTwo.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromOneToNMultiplyByTwo\obj\Debug\03.NumberFromOneToNMultiplyByTwo.csprojResolveAssemblyReference.cache

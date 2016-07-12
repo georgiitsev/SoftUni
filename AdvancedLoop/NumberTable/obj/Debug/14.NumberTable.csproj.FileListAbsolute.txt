@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberTable\bin\Debug\NumberTable.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberTable\bin\Debug\NumberTable.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberTable\bin\Debug\NumberTable.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberTable\obj\Debug\14.NumberTable.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberTable\obj\Debug\NumberTable.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberTable\obj\Debug\NumberTable.pdb

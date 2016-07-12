@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\SquareofStars\bin\Debug\SquareofStars.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\SquareofStars\bin\Debug\SquareofStars.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\SquareofStars\bin\Debug\SquareofStars.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\SquareofStars\obj\Debug\SquareofStars.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\SquareofStars\obj\Debug\SquareofStars.pdb

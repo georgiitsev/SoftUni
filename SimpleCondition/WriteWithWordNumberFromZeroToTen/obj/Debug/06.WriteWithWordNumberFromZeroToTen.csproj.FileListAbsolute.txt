@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\WriteWithWordNumberFromZeroToTen\bin\Debug\WriteWithWordNumberFromZeroToTen.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\WriteWithWordNumberFromZeroToTen\obj\Debug\WriteWithWordNumberFromZeroToTen.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\WriteWithWordNumberFromZeroToTen\obj\Debug\WriteWithWordNumberFromZeroToTen.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\WriteWithWordNumberFromZeroToTen\bin\Debug\WriteWithWordNumberFromZeroToTen.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\WriteWithWordNumberFromZeroToTen\bin\Debug\WriteWithWordNumberFromZeroToTen.pdb

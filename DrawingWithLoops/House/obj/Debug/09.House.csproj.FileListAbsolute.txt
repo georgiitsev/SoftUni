@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\House\bin\Debug\House.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\House\bin\Debug\House.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\House\bin\Debug\House.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\House\obj\Debug\09.House.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\House\obj\Debug\House.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\House\obj\Debug\House.pdb

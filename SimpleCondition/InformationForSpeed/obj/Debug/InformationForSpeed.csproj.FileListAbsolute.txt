@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\InformationForSpeed\bin\Debug\InformationForSpeed.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\InformationForSpeed\bin\Debug\InformationForSpeed.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\InformationForSpeed\bin\Debug\InformationForSpeed.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\InformationForSpeed\obj\Debug\InformationForSpeed.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\InformationForSpeed\obj\Debug\InformationForSpeed.pdb

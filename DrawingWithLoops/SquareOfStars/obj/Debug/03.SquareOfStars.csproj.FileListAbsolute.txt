@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SquareOfStars\bin\Debug\SquareOfStars.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SquareOfStars\bin\Debug\SquareOfStars.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SquareOfStars\obj\Debug\SquareOfStars.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\SquareOfStars\obj\Debug\SquareOfStars.pdb

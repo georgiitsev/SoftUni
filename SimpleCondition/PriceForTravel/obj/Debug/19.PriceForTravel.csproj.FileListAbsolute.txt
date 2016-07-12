@@ -1,0 +1,3 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PriceForTravel\bin\Debug\PriceForTravel.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PriceForTravel\obj\Debug\PriceForTravel.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PriceForTravel\obj\Debug\PriceForTravel.pdb

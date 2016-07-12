@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\InvalidNumber\bin\Debug\InvalidNumber.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\InvalidNumber\bin\Debug\InvalidNumber.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\InvalidNumber\bin\Debug\InvalidNumber.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\InvalidNumber\obj\Debug\InvalidNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\InvalidNumber\obj\Debug\InvalidNumber.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\InvalidNumber\obj\Debug\InvalidNumber.pdb

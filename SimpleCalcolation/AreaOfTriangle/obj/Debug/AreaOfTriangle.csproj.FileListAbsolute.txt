@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\AreaOfTriangle\bin\Debug\AreaOfTriangle.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\AreaOfTriangle\bin\Debug\AreaOfTriangle.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\AreaOfTriangle\obj\Debug\AreaOfTriangle.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\AreaOfTriangle\obj\Debug\AreaOfTriangle.pdb

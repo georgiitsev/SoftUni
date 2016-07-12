@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Nums1To20\bin\Debug\Nums1To20.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Nums1To20\bin\Debug\Nums1To20.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Nums1To20\bin\Debug\Nums1To20.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Nums1To20\obj\Debug\Nums1To20.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\Nums1To20\obj\Debug\Nums1To20.pdb

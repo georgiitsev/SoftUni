@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\ConvertMetersAndOtherCurrency\bin\Debug\ConvertMetersAndOtherCurrency.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\ConvertMetersAndOtherCurrency\obj\Debug\ConvertMetersAndOtherCurrency.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\ConvertMetersAndOtherCurrency\bin\Debug\ConvertMetersAndOtherCurrency.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\ConvertMetersAndOtherCurrency\bin\Debug\ConvertMetersAndOtherCurrency.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\ConvertMetersAndOtherCurrency\obj\Debug\ConvertMetersAndOtherCurrency.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\ConvertMetersAndOtherCurrency\obj\Debug\ConvertMetersAndOtherCurrency.pdb

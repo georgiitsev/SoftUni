@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SumDigits\bin\Debug\SumDigits.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SumDigits\bin\Debug\SumDigits.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SumDigits\bin\Debug\SumDigits.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SumDigits\obj\Debug\09.SumDigits.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SumDigits\obj\Debug\SumDigits.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SumDigits\obj\Debug\SumDigits.pdb

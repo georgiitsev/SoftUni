@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingWithLoops\obj\Debug\01.DrawRectangleOfTenStars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingWithLoops\bin\Debug\DrawingWithLoops.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingWithLoops\bin\Debug\DrawingWithLoops.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingWithLoops\bin\Debug\DrawingWithLoops.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingWithLoops\obj\Debug\DrawingWithLoops.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingWithLoops\obj\Debug\DrawingWithLoops.pdb

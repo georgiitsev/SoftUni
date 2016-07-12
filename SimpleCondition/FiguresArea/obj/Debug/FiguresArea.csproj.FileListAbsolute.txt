@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\FiguresArea\bin\Debug\FiguresArea.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\FiguresArea\bin\Debug\FiguresArea.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\FiguresArea\bin\Debug\FiguresArea.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\FiguresArea\obj\Debug\FiguresArea.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\FiguresArea\obj\Debug\FiguresArea.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\FiguresArea\obj\Debug\FiguresArea.pdb

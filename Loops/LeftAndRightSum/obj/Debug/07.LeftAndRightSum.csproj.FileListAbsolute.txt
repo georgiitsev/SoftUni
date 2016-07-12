@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\LeftAndRightSum\bin\Debug\LeftAndRightSum.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\LeftAndRightSum\obj\Debug\07.LeftAndRightSum.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\LeftAndRightSum\obj\Debug\LeftAndRightSum.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamHistogram\bin\Debug\ExamHistogram.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamHistogram\obj\Debug\ExamHistogram.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamHistogram\bin\Debug\ExamHistogram.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamHistogram\bin\Debug\ExamHistogram.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamHistogram\obj\Debug\ExamHistogram.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamHistogram\obj\Debug\ExamHistogram.pdb

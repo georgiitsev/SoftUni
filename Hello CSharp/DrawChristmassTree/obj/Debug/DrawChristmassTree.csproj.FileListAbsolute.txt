@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\DrawChristmassTree\bin\Debug\DrawChristmassTree.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\DrawChristmassTree\obj\Debug\DrawChristmassTree.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\DrawChristmassTree\bin\Debug\DrawChristmassTree.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\DrawChristmassTree\bin\Debug\DrawChristmassTree.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\DrawChristmassTree\obj\Debug\DrawChristmassTree.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\DrawChristmassTree\obj\Debug\DrawChristmassTree.pdb

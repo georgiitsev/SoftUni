@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\GreatingByName\bin\Debug\GreatingByName.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\GreatingByName\bin\Debug\GreatingByName.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\GreatingByName\bin\Debug\GreatingByName.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\GreatingByName\obj\Debug\GreatingByName.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\GreatingByName\obj\Debug\GreatingByName.pdb

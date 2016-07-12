@@ -1,0 +1,3 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\HalfSumElement\bin\Debug\HalfSumElement.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\HalfSumElement\obj\Debug\HalfSumElement.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\HalfSumElement\obj\Debug\HalfSumElement.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInFugure\bin\Debug\PointInFugure.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInFugure\bin\Debug\PointInFugure.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInFugure\bin\Debug\PointInFugure.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInFugure\obj\Debug\14.PointInFugure.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInFugure\obj\Debug\PointInFugure.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInFugure\obj\Debug\PointInFugure.pdb

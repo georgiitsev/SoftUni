@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitOrVegetable\bin\Debug\FruitOrVegetable.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitOrVegetable\bin\Debug\FruitOrVegetable.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitOrVegetable\obj\Debug\FruitOrVegetable.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\FruitOrVegetable\obj\Debug\FruitOrVegetable.pdb

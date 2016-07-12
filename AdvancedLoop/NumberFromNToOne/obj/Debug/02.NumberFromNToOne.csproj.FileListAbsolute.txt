@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromNToOne\bin\Debug\NumberFromNToOne.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromNToOne\bin\Debug\NumberFromNToOne.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromNToOne\bin\Debug\NumberFromNToOne.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromNToOne\obj\Debug\NumberFromNToOne.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\NumberFromNToOne\obj\Debug\NumberFromNToOne.pdb

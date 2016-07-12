@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Comission\bin\Debug\Comission.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Comission\bin\Debug\Comission.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Comission\bin\Debug\Comission.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Comission\obj\Debug\08.Comission.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Comission\obj\Debug\Comission.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Comission\obj\Debug\Comission.pdb

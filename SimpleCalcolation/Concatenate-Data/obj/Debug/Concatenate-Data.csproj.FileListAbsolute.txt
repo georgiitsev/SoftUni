@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Concatenate-Data\bin\Debug\Concatenate-Data.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Concatenate-Data\bin\Debug\Concatenate-Data.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Concatenate-Data\bin\Debug\Concatenate-Data.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Concatenate-Data\obj\Debug\Concatenate-Data.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Concatenate-Data\obj\Debug\Concatenate-Data.pdb

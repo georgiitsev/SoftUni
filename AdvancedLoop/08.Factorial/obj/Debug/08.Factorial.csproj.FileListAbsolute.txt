@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\08.Factorial\bin\Debug\08.Factorial.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\08.Factorial\bin\Debug\08.Factorial.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\08.Factorial\bin\Debug\08.Factorial.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\08.Factorial\obj\Debug\08.Factorial.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\08.Factorial\obj\Debug\08.Factorial.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\08.Factorial\obj\Debug\08.Factorial.csprojResolveAssemblyReference.cache

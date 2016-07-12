@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\bin\Debug\Loops.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\bin\Debug\Loops.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\bin\Debug\Loops.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\obj\Debug\Loops.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\obj\Debug\Loops.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\Loops\obj\Debug\Loops.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\LearningHall\bin\Debug\LearningHall.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\LearningHall\bin\Debug\LearningHall.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\LearningHall\bin\Debug\LearningHall.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\LearningHall\obj\Debug\LearningHall.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\LearningHall\obj\Debug\LearningHall.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\LearningHall\obj\Debug\LearningHall.pdb

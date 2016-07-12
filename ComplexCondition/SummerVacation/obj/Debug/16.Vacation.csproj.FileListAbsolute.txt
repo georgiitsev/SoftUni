@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SummerVacation\obj\Debug\16.Vacation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SummerVacation\bin\Debug\SummerVacation.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SummerVacation\bin\Debug\SummerVacation.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SummerVacation\bin\Debug\SummerVacation.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SummerVacation\obj\Debug\SummerVacation.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\SummerVacation\obj\Debug\SummerVacation.pdb

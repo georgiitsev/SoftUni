@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllNumberEndingToSeven\bin\Debug\AllNumberEndingToSeven.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllNumberEndingToSeven\bin\Debug\AllNumberEndingToSeven.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllNumberEndingToSeven\bin\Debug\AllNumberEndingToSeven.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllNumberEndingToSeven\obj\Debug\AllNumberEndingToSeven.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllNumberEndingToSeven\obj\Debug\AllNumberEndingToSeven.pdb

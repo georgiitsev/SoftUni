@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingFort\obj\Debug\12.DrawingFort.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingFort\bin\Debug\DrawingFort.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingFort\bin\Debug\DrawingFort.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingFort\bin\Debug\DrawingFort.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingFort\obj\Debug\DrawingFort.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\DrawingFort\obj\Debug\DrawingFort.pdb

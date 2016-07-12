@@ -1,0 +1,1 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\bin\Debug\CheckPrimeNumber.exe.config

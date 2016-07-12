@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\bin\Debug\AdvancedLoop.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\obj\Debug\AdvancedLoop.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\bin\Debug\AdvancedLoop.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\bin\Debug\AdvancedLoop.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\obj\Debug\AdvancedLoop.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\AdvancedLoop\obj\Debug\AdvancedLoop.pdb

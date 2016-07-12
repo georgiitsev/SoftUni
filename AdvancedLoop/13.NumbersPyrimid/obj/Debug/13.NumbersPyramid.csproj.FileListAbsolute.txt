@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\13.NumbersPyrimid\bin\Debug\13.NumbersPyrimid.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\13.NumbersPyrimid\bin\Debug\13.NumbersPyrimid.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\13.NumbersPyrimid\bin\Debug\13.NumbersPyrimid.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\13.NumbersPyrimid\obj\Debug\13.NumbersPyramid.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\13.NumbersPyrimid\obj\Debug\13.NumbersPyrimid.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\13.NumbersPyrimid\obj\Debug\13.NumbersPyrimid.pdb

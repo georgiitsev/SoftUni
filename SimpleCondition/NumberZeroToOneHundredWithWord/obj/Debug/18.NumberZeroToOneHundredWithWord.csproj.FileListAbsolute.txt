@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\NumberZeroToOneHundredWithWord\bin\Debug\NumberZeroToOneHundredWithWord.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\NumberZeroToOneHundredWithWord\obj\Debug\18.NumberZeroToOneHundredWithWord.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\NumberZeroToOneHundredWithWord\bin\Debug\NumberZeroToOneHundredWithWord.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\NumberZeroToOneHundredWithWord\bin\Debug\NumberZeroToOneHundredWithWord.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\NumberZeroToOneHundredWithWord\obj\Debug\NumberZeroToOneHundredWithWord.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\NumberZeroToOneHundredWithWord\obj\Debug\NumberZeroToOneHundredWithWord.pdb

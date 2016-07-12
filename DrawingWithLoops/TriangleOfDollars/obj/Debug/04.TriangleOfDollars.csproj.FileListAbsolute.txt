@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\TriangleOfDollars\obj\Debug\04.TriangleOfDollars.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\TriangleOfDollars\bin\Debug\TriangleOfDollars.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\TriangleOfDollars\obj\Debug\TriangleOfDollars.pdb

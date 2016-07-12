@@ -1,0 +1,1 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\FindMinNumber\bin\Debug\FindMinNumber.exe.config

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Cinema\obj\Debug\12.Cinema.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Cinema\bin\Debug\Cinema.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Cinema\bin\Debug\Cinema.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Cinema\bin\Debug\Cinema.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Cinema\obj\Debug\Cinema.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\Cinema\obj\Debug\Cinema.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PipeInPool\bin\Debug\PipeInPool.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PipeInPool\obj\Debug\PipeInPool.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PipeInPool\bin\Debug\PipeInPool.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PipeInPool\bin\Debug\PipeInPool.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PipeInPool\obj\Debug\PipeInPool.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\PipeInPool\obj\Debug\PipeInPool.pdb

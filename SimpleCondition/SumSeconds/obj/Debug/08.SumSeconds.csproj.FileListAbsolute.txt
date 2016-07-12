@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SumSeconds\bin\Debug\SumSeconds.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SumSeconds\obj\Debug\SumSeconds.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SumSeconds\obj\Debug\SumSeconds.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SumSeconds\bin\Debug\SumSeconds.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SumSeconds\bin\Debug\SumSeconds.pdb

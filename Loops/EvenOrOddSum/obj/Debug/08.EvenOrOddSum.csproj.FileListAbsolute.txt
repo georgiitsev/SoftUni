@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\EvenOrOddSum\bin\Debug\EvenOrOddSum.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\EvenOrOddSum\bin\Debug\EvenOrOddSum.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\EvenOrOddSum\bin\Debug\EvenOrOddSum.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\EvenOrOddSum\obj\Debug\EvenOrOddSum.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\EvenOrOddSum\obj\Debug\EvenOrOddSum.pdb

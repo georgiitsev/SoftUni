@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\bin\Debug\PointOnReactangleBorder.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\bin\Debug\PointOnReactangleBorder.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\bin\Debug\PointOnReactangleBorder.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\obj\Debug\PointOnReactangleBorder.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\obj\Debug\PointOnReactangleBorder.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointOnReactangleBorder\obj\Debug\PointOnReactangleBorder.csprojResolveAssemblyReference.cache

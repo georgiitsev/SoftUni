@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SequenceTwoMultiplyTwoTimesKPlusOne\bin\Debug\SequenceTwoMultiplyTwoTimesKPlusOne.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SequenceTwoMultiplyTwoTimesKPlusOne\bin\Debug\SequenceTwoMultiplyTwoTimesKPlusOne.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SequenceTwoMultiplyTwoTimesKPlusOne\bin\Debug\SequenceTwoMultiplyTwoTimesKPlusOne.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SequenceTwoMultiplyTwoTimesKPlusOne\obj\Debug\SequenceTwoMultiplyTwoTimesKPlusOne.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\SequenceTwoMultiplyTwoTimesKPlusOne\obj\Debug\SequenceTwoMultiplyTwoTimesKPlusOne.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInsideRectagle\bin\Debug\PointInsideRectagle.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInsideRectagle\bin\Debug\PointInsideRectagle.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInsideRectagle\bin\Debug\PointInsideRectagle.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInsideRectagle\obj\Debug\03.PointInsideRectagle.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInsideRectagle\obj\Debug\PointInsideRectagle.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\PointInsideRectagle\obj\Debug\PointInsideRectagle.pdb

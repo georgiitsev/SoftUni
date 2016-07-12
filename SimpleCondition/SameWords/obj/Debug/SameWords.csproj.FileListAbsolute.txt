@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SameWords\bin\Debug\SameWords.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SameWords\bin\Debug\SameWords.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SameWords\bin\Debug\SameWords.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SameWords\obj\Debug\SameWords.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\SameWords\obj\Debug\SameWords.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamDevideWithPercentEqualZero\bin\Debug\ExamDevideWithPercentEqualZero.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamDevideWithPercentEqualZero\bin\Debug\ExamDevideWithPercentEqualZero.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamDevideWithPercentEqualZero\bin\Debug\ExamDevideWithPercentEqualZero.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamDevideWithPercentEqualZero\obj\Debug\21.ExamDevideWithPercentEqualZero.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamDevideWithPercentEqualZero\obj\Debug\ExamDevideWithPercentEqualZero.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\ExamDevideWithPercentEqualZero\obj\Debug\ExamDevideWithPercentEqualZero.pdb

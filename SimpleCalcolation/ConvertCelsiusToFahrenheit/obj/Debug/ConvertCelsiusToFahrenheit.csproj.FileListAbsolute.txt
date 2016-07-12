@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertCelsiusToFahrenheit\bin\Debug\ConvertCelsiusToFahrenheit.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertCelsiusToFahrenheit\bin\Debug\ConvertCelsiusToFahrenheit.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertCelsiusToFahrenheit\bin\Debug\ConvertCelsiusToFahrenheit.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertCelsiusToFahrenheit\obj\Debug\ConvertCelsiusToFahrenheit.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertCelsiusToFahrenheit\obj\Debug\ConvertCelsiusToFahrenheit.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConvertCelsiusToFahrenheit\obj\Debug\ConvertCelsiusToFahrenheit.pdb

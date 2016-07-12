@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\TriangleOf55Stars\bin\Debug\TriangleOf55Stars.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.exe
+D:\SoftUni\Homeworks\Project Homeworks\Hello CSharp\TriangleOf55Stars\obj\Debug\TriangleOf55Stars.pdb

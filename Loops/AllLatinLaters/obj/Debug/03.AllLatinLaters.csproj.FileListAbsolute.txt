@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllLatinLaters\bin\Debug\AllLatinLaters.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllLatinLaters\bin\Debug\AllLatinLaters.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllLatinLaters\bin\Debug\AllLatinLaters.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllLatinLaters\obj\Debug\AllLatinLaters.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\AllLatinLaters\obj\Debug\AllLatinLaters.pdb

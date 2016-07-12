@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConverterRadianiToDegreеs\bin\Debug\ConverterRadianiToDegreеs.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConverterRadianiToDegreеs\bin\Debug\ConverterRadianiToDegreеs.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConverterRadianiToDegreеs\bin\Debug\ConverterRadianiToDegreеs.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConverterRadianiToDegreеs\obj\Debug\ConverterRadianiToDegreеs.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\ConverterRadianiToDegreеs\obj\Debug\ConverterRadianiToDegreеs.pdb

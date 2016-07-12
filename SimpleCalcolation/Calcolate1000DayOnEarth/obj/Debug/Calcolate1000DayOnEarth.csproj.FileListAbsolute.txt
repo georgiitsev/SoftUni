@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Calcolate1000DayOnEarth\bin\Debug\Calcolate1000DayOnEarth.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Calcolate1000DayOnEarth\obj\Debug\Calcolate1000DayOnEarth.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Calcolate1000DayOnEarth\bin\Debug\Calcolate1000DayOnEarth.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Calcolate1000DayOnEarth\bin\Debug\Calcolate1000DayOnEarth.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Calcolate1000DayOnEarth\obj\Debug\Calcolate1000DayOnEarth.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\Calcolate1000DayOnEarth\obj\Debug\Calcolate1000DayOnEarth.pdb

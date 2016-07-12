@@ -1,0 +1,1 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\07.PrintDayOfWeek\bin\Debug\07.PrintDayOfWeek.exe.config

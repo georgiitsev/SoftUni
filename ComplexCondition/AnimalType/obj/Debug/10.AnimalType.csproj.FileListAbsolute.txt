@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\AnimalType\bin\Debug\AnimalType.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\AnimalType\bin\Debug\AnimalType.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\AnimalType\bin\Debug\AnimalType.pdb
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\AnimalType\obj\Debug\AnimalType.exe
+D:\SoftUni\Homeworks\Project Homeworks\ComplexCondition\AnimalType\obj\Debug\AnimalType.pdb

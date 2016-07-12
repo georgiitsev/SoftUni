@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\VowelsSum\bin\Debug\VowelsSum.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\VowelsSum\bin\Debug\VowelsSum.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\VowelsSum\bin\Debug\VowelsSum.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\VowelsSum\obj\Debug\VowelsSum.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\VowelsSum\obj\Debug\VowelsSum.pdb

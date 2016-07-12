@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\DigitBy100to200\bin\Debug\DigitBy100to200.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\DigitBy100to200\obj\Debug\DigitBy100to200.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\DigitBy100to200\obj\Debug\DigitBy100to200.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\DigitBy100to200\bin\Debug\DigitBy100to200.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\DigitBy100to200\bin\Debug\DigitBy100to200.pdb

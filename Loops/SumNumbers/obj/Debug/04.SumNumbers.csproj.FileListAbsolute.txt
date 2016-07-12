@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\Loops\SumNumbers\bin\Debug\SumNumbers.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\Loops\SumNumbers\bin\Debug\SumNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\SumNumbers\bin\Debug\SumNumbers.pdb
+D:\SoftUni\Homeworks\Project Homeworks\Loops\SumNumbers\obj\Debug\SumNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\Loops\SumNumbers\obj\Debug\SumNumbers.pdb

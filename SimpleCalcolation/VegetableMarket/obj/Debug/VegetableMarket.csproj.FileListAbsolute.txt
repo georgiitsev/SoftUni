@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\VegetableMarket\bin\Debug\VegetableMarket.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\VegetableMarket\obj\Debug\VegetableMarket.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\VegetableMarket\bin\Debug\VegetableMarket.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\VegetableMarket\bin\Debug\VegetableMarket.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\VegetableMarket\obj\Debug\VegetableMarket.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\VegetableMarket\obj\Debug\VegetableMarket.pdb

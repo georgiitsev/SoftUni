@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\bin\Debug\CheckPrimeNumber.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\bin\Debug\CheckPrimeNumber.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\bin\Debug\CheckPrimeNumber.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\obj\Debug\10.CheckPrimeNumber.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\obj\Debug\CheckPrimeNumber.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\CheckPrimeNumber\obj\Debug\CheckPrimeNumber.pdb

@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\Diamond\obj\Debug\10.Diamond.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\Diamond\obj\Debug\Diamond.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\Diamond\bin\Debug\Diamond.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\Diamond\bin\Debug\Diamond.exe
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\Diamond\bin\Debug\Diamond.pdb
+D:\SoftUni\Homeworks\Project Homeworks\DrawingWithLoops\Diamond\obj\Debug\Diamond.pdb

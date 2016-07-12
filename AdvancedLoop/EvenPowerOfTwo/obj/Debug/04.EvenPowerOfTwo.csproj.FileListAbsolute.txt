@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\EvenPowerOfTwo\bin\Debug\EvenPowerOfTwo.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.exe
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\EvenPowerOfTwo\obj\Debug\EvenPowerOfTwo.pdb
+D:\SoftUni\Homeworks\Project Homeworks\AdvancedLoop\EvenPowerOfTwo\obj\Debug\04.EvenPowerOfTwo.csprojResolveAssemblyReference.cache

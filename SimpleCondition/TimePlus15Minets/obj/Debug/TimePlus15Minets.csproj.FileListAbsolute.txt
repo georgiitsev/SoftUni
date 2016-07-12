@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\TimePlus15Minets\bin\Debug\TimePlus15Minets.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\TimePlus15Minets\obj\Debug\TimePlus15Minets.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\TimePlus15Minets\bin\Debug\TimePlus15Minets.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\TimePlus15Minets\bin\Debug\TimePlus15Minets.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\TimePlus15Minets\obj\Debug\TimePlus15Minets.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCondition\TimePlus15Minets\obj\Debug\TimePlus15Minets.pdb

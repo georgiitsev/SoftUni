@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\SimpleCalcolation\bin\Debug\SimpleCalcolation.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\SimpleCalcolation\bin\Debug\SimpleCalcolation.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\SimpleCalcolation\bin\Debug\SimpleCalcolation.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\SimpleCalcolation\obj\Debug\SimpleCalcolation.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\SimpleCalcolation\obj\Debug\SimpleCalcolation.exe
+D:\SoftUni\Homeworks\Project Homeworks\SimpleCalcolation\SimpleCalcolation\obj\Debug\SimpleCalcolation.pdb
