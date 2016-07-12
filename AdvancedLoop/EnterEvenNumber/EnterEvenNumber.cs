@@ -6,28 +6,35 @@ namespace EnterEvenNumber
     {
         static void Main()
         {
-            for (int i = 0;;)
+            bool continueLoop = true;
+
+            do
             {
-                Console.Write("Enter even number: ");
-                int number = int.Parse(Console.ReadLine());
                 try
                 {
-                    int temp = (int)number;
+                    Console.Write("Enter even number: ");
+                    int evenNumber = int.Parse(Console.ReadLine());
+                    if (evenNumber % 2 ==0)
+                    {
+                        Console.WriteLine("Even number entered: {0}",evenNumber);
+                        continueLoop = false;
+                    }
+                    else if (evenNumber % 2 !=0)
+                    {
+                        Console.WriteLine("The number is not even.");
+                    }
+                    
                 }
-                catch (Exception)
+                catch (FormatException formatException)
                 {
-                    Console.WriteLine("Invalid ");
-                    throw;
+                    Console.WriteLine("Invalid number!");
                 }
-                if (number % 2 == 0)
+                catch (OverflowException bigger)
                 {
-                    Console.WriteLine("Even number entered: {0}",number);
+                    Console.WriteLine("Invalid number!");
                 }
-                else
-                {
-                    Console.WriteLine("The number is not even.");
-                }
-            }
+                
+            } while (continueLoop);
         }
     }
 }
