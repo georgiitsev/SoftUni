@@ -1,0 +1,5 @@
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\TOTO6of49\bin\Debug\TOTO6of49.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\TOTO6of49\bin\Debug\TOTO6of49.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\TOTO6of49\bin\Debug\TOTO6of49.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\TOTO6of49\obj\Debug\TOTO6of49.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\TOTO6of49\obj\Debug\TOTO6of49.pdb
