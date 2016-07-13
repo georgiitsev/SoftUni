@@ -6,30 +6,37 @@ namespace CheckPrimeNumber
     {
         static void Main()
         {
-            int number = int.Parse(Console.ReadLine());
 
+            int number = int.Parse(Console.ReadLine());
+            int divider = 2;
+            int maxDivider = (int)Math.Sqrt(number);
+            bool prime = true;
             if (number < 2)
             {
-                Console.WriteLine(" Not Prime");
+                Console.WriteLine("Not Prime");
             }
             else
             {
-                for (int i = 2; i <= Math.Sqrt(number); i++)
+                while (prime && (divider <= maxDivider))
                 {
-
-                    if (number % i == 0)
+                    if (number % divider == 0)
                     {
-
-                        Console.WriteLine("Prime");
-                        break;
+                        prime = false;
                     }
-                    else
-                    {
-                        Console.WriteLine("Not Prime");
-                        break;
-                    }
+                    divider++;
+                }
+                if (prime == false)
+                {
+                    Console.WriteLine("Not Prime");
+                }
+                else
+                {
+                    Console.WriteLine("Prime");
                 }
             }
+
+
+
         }
     }
 }
