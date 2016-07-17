@@ -33,6 +33,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "14.NumberTable", "NumberTab
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "16.StupidPasswordGenerator", "StupidPasswordGenerator\16.StupidPasswordGenerator.csproj", "{91D6A25A-1DA0-4668-8587-DB2F90BFD639}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "18.MagicNumbers", "18.MagicNumbers\18.MagicNumbers.csproj", "{DEE75319-2686-4968-B4E2-B0EBAD925C93}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "19.SpecialNumbers", "SpecialNumbers\19.SpecialNumbers.csproj", "{78D2B95C-285A-4812-8E4E-C3DC9723472B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -99,6 +103,14 @@ Global
 		{91D6A25A-1DA0-4668-8587-DB2F90BFD639}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{91D6A25A-1DA0-4668-8587-DB2F90BFD639}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{91D6A25A-1DA0-4668-8587-DB2F90BFD639}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEE75319-2686-4968-B4E2-B0EBAD925C93}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE75319-2686-4968-B4E2-B0EBAD925C93}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE75319-2686-4968-B4E2-B0EBAD925C93}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE75319-2686-4968-B4E2-B0EBAD925C93}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78D2B95C-285A-4812-8E4E-C3DC9723472B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78D2B95C-285A-4812-8E4E-C3DC9723472B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78D2B95C-285A-4812-8E4E-C3DC9723472B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78D2B95C-285A-4812-8E4E-C3DC9723472B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

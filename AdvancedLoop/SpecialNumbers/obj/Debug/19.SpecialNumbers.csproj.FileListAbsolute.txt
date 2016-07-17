@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\SpecialNumbers\bin\Debug\SpecialNumbers.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\SpecialNumbers\bin\Debug\SpecialNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\SpecialNumbers\bin\Debug\SpecialNumbers.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\SpecialNumbers\obj\Debug\19.SpecialNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\SpecialNumbers\obj\Debug\SpecialNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\SpecialNumbers\obj\Debug\SpecialNumbers.pdb

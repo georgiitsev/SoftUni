@@ -1,0 +1,6 @@
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\18.MagicNumbers\bin\Debug\18.MagicNumbers.exe.config
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\18.MagicNumbers\bin\Debug\18.MagicNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\18.MagicNumbers\bin\Debug\18.MagicNumbers.pdb
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\18.MagicNumbers\obj\Debug\18.MagicNumbers.csprojResolveAssemblyReference.cache
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\18.MagicNumbers\obj\Debug\18.MagicNumbers.exe
+D:\SoftUni\Homeworks\Project Homeworks\SoftUni\AdvancedLoop\18.MagicNumbers\obj\Debug\18.MagicNumbers.pdb
