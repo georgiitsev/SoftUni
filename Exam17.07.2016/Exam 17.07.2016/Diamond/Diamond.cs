@@ -11,7 +11,7 @@ namespace Diamond
             int stars = number * 3;
             int pointsInTheMiddle = stars;
 
-            for (int i = 0; i < number; i++)
+            for (int i = 0; i < number-1; i++)
             {
 
                 if (i == 0)

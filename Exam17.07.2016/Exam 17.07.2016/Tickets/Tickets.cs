@@ -18,7 +18,7 @@ namespace Tickets
 
             switch (vipOrNormal)
             {
-                case "vip":
+                case "VIP":
                     if (numberOfPeople >= 1 && numberOfPeople <= 4)
                     {
                         prizeForTransport = buget * 0.75;
@@ -63,7 +63,7 @@ namespace Tickets
                         Console.WriteLine("Not enough money! You need {0:f2} leva.", finalResult);
                     }
                     break;
-                case "normal":
+                case "Normal":
                     if (numberOfPeople >= 1 && numberOfPeople <= 4)
                     {
                         prizeForTransport = buget * 0.75;
